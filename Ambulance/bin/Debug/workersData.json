@@ -1,0 +1,26 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "FirstName": "Иван",
+    "LastName": "Иванов",
+    "ExpYears": "22",
+    "Address": "Кольцова 23, 56"
+  },
+  {
+    "$id": "2",
+    "Id": 2,
+    "FirstName": "Ярослав ",
+    "LastName": "Захаров",
+    "ExpYears": "13",
+    "Address": "Куприна 23, 866"
+  },
+  {
+    "$id": "3",
+    "Id": 3,
+    "FirstName": "Randy",
+    "LastName": "Random",
+    "ExpYears": "19",
+    "Address": "Ильича 34"
+  }
+]
